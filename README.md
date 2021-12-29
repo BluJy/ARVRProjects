@@ -1,25 +1,27 @@
-<!-- ARVRProjects -->
-## ARVRProjects
+<!-- ARVR Projects -->
+## ARVR Projects
 Projects that have been created during my Virtual and Augmented Reality course.
 In collaboration with https://github.com/Jasperouz.
+- [x] FoodMonsters Marker Tracking
+- [x] Motion Guidance System
 
-![alt text](https://github.com/Rezarak/VirtualOSMWorld/blob/master/Thesis/Thesis%20Bilder/Tokio.PNG)
 
-Installazion needs a http server. 
-Installation via npm:
-Fist install nodejs: https://nodejs.org/en/
+<!-- Motion Guidance System -->
+## Motion Guidance System
 
-In the console type: 
-`npm install -g http-server`
+![alt text](https://github.com/Rezarak/ARVRProjects/blob/main/Images/AsymptoticPath.png)
+![alt text](https://github.com/Rezarak/ARVRProjects/blob/main/Images/RubberBand.png)
 
-Use the osmparser.jar file to create a JSON file from osm data:
-In the console type: 
-`javac -jar osmparser.jar filename.osm`
+<!-- Food Monsters Marker Tracking -->
+## Food Monsters Marker Tracking
 
-This will create a new `map.json` file to the same directory the `osmparser.jar` file is in.
-Drag this file to the same directory as the `index.html` file.
 
-Start the http server in the same directory as the index.html file:
-In the console type: `http-server .`
+<!-- Installation -->
+## Installation
+To install any of the Projects, 
+1) Start a new Unity Project with the latest verstion.
+2) Import the unitypackage file by opening it while the project is open.
+3) Locate & open the Scene.
 
-Open the web page via localhost:8080
+
+
