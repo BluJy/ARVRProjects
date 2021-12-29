@@ -1,5 +1,7 @@
-# VirtualOSMWorld
-Creating virtual Worlds from OpenStreetMap data.
+<!-- ARVRProjects -->
+## ARVRProjects
+Projects that have been created during my Virtual and Augmented Reality course.
+In collaboration with https://github.com/Jasperouz.
 
 ![alt text](https://github.com/Rezarak/VirtualOSMWorld/blob/master/Thesis/Thesis%20Bilder/Tokio.PNG)
 
