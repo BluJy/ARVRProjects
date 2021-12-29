@@ -18,7 +18,7 @@ Therefore, we designed and implemented a motion guidance system in VR and implem
 <!-- Food Monsters Marker Tracking -->
 ## Food Monsters Marker Tracking
 First steps in Unity by creating working markers with Vuforia that can be tracked through the devices Camera.
-It shows food monsers that can display different animations.
+It shows food monsers that can display different animations in Augmented Reality.
 
 
 ![alt text](https://github.com/Rezarak/ARVRProjects/blob/main/Images/FoodMonsters.png)
