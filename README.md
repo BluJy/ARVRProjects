@@ -2,8 +2,9 @@
 ## ARVR Projects
 Projects that have been created during my Virtual and Augmented Reality course.
 In collaboration with https://github.com/Jasperouz.
-- [x] FoodMonsters Marker Tracking
 - [x] Motion Guidance System
+- [x] Food Monsters Marker Tracking
+
 
 
 <!-- Motion Guidance System -->
