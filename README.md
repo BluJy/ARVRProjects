@@ -1,5 +1,3 @@
-<div id="top"></div>
-<!--
 # VirtualOSMWorld
 Creating virtual Worlds from OpenStreetMap data.
 
@@ -23,4 +21,3 @@ Start the http server in the same directory as the index.html file:
 In the console type: `http-server .`
 
 Open the web page via localhost:8080
-
